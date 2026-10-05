@@ -1,6 +1,6 @@
-# Microsoft-Yahei-Mono
-Microsoft Yahei Mono 字体
+# Microsoft-Yahei-Mono-Big
+因为Windows终端的汉字分太开，所以用Font Creator调节为X轴120% Y轴110% 以阅读长文
 
-> 个人非常喜欢的一款编程字体，所以从网上找来资源，放到 `GitHub` 上备用，后续如果有更新，也方便版本追溯。
+> 与JetBrainsMono Nerd Font的组合搭配良好
 
 ![字体预览](msyhmono.png)
