@@ -4,3 +4,5 @@
 > 与JetBrainsMono Nerd Font的组合搭配良好
 
 ![字体预览](preview1.png)
+![字体预览](preview2.png)
+![字体预览](preview3.png)
