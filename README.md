@@ -3,4 +3,4 @@
 
 > 与JetBrainsMono Nerd Font的组合搭配良好
 
-![字体预览](2026-10-06-080143.png)
+![字体预览](preview1.png)
